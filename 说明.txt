@@ -1,0 +1,20 @@
+shoplist  ： 返回顶部没找到。。。
+
+shop组件： 更换头部nav小箭头
+footguid组件： 更换底部导航四个小图标
+
+buyCart组件： 更换添加删除的图标 + -
+loading组件： 跳动苹果底部阴影svg左调整(换成外接svg文件)
+
+ratingStar组件： 更换star星星svg
+
+header组件： 更换箭头导航， 
+msite组件： 商家，搜索更换
+
+profile: 用户头像，手机待换， 服务，下载app， 箭头。。。
+shop: 关闭购物车 查号。。。。。
+shopDetail.vue: 没找到。。。。
+
+
+
+	
